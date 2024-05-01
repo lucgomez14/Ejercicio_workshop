@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uK4AaZwrH8sH/M/rBKiN5SJWu+W2Mge+ypicBU+5bWF2hs9QEO17yQobQarp4adghlzE7ETi3PH75MvAlzO/zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucgomez\\Downloads\\capacitacion equipo\\Ejercicio Workshop\\EjercicioWorkshop\\EjercicioWorkshop\\EjercicioWorkshop.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://baget.apps.aro.andreani.com.ar/v3/index.json\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

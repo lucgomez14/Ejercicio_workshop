@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\lucgomez\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lucgomez\\Downloads\\capacitacion equipo\\Ejercicio Workshop\\EjercicioWorkshop\\EjercicioWorkshop\\EjercicioWorkshop.csproj",
+      "projectName": "EjercicioWorkshop",
+      "projectPath": "C:\\Users\\lucgomez\\Downloads\\capacitacion equipo\\Ejercicio Workshop\\EjercicioWorkshop\\EjercicioWorkshop\\EjercicioWorkshop.csproj",
+      "packagesPath": "C:\\Users\\lucgomez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucgomez\\Downloads\\capacitacion equipo\\Ejercicio Workshop\\EjercicioWorkshop\\EjercicioWorkshop\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\lucgomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://baget.apps.aro.andreani.com.ar/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/architecture-it/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://baget.apps.aro.andreani.com.ar/v3/index.json\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

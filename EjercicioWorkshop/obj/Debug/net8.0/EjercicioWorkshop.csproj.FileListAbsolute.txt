@@ -1,0 +1,14 @@
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\bin\Debug\net8.0\EjercicioWorkshop.exe
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\bin\Debug\net8.0\EjercicioWorkshop.deps.json
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\bin\Debug\net8.0\EjercicioWorkshop.runtimeconfig.json
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\bin\Debug\net8.0\EjercicioWorkshop.dll
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\bin\Debug\net8.0\EjercicioWorkshop.pdb
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\obj\Debug\net8.0\EjercicioWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\obj\Debug\net8.0\EjercicioWorkshop.AssemblyInfoInputs.cache
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\obj\Debug\net8.0\EjercicioWorkshop.AssemblyInfo.cs
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\obj\Debug\net8.0\EjercicioWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\obj\Debug\net8.0\EjercicioWorkshop.dll
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\obj\Debug\net8.0\refint\EjercicioWorkshop.dll
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\obj\Debug\net8.0\EjercicioWorkshop.pdb
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\obj\Debug\net8.0\EjercicioWorkshop.genruntimeconfig.cache
+C:\Users\lucgomez\Downloads\capacitacion equipo\Ejercicio Workshop\EjercicioWorkshop\EjercicioWorkshop\obj\Debug\net8.0\ref\EjercicioWorkshop.dll
