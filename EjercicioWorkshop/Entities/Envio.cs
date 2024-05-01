@@ -8,17 +8,30 @@ namespace EjercicioWorkshop.Entities
 {
     public class Envio
     {
-        public string Origen { get; set; }
-        public string Destino { get; set; }
-        public string Contenido { get; set; }
-
-        public string Enviar(string origen, string destino, string contenido)
+        public string Enviar(string orig, string desti, string conte)
         {
-            this.Origen = origen;
-            this.Destino = destino;
-            this.Contenido = contenido;
-            return "Paquete enviado! Destino: " + destino + ", Origen: " + origen + ", Contenido: ";
+            this.ori = orig;
+            this.dest = desti;
+            this.cont = conte;
+            return "Paquete enviado! Destino: " + desti + ", Origen: " + orig + ", Contenido: " + conte;
         }
-
+        private string ori;
+        public string Ori
+        {
+            set { this.ori = value; }
+            get { return this.ori; }
+        }
+        private string dest;
+        public string Dests
+        {
+            set { this.dest = value; } 
+            get { return this.dest; }
+        }
+        private string cont;
+        public string Cont
+        {
+            set { this.cont = value; }
+            get { return this.cont; }
+        }
     }
 }
