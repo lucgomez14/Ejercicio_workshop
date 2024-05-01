@@ -11,18 +11,18 @@ while (!salir)
 
     string opcion = Console.ReadLine();
 
-        switch (opcion)
-        {
-            case "1":
-                EnviarPaquete();
-                break;
-            case "2":
-                salir = true;
-                break;
-            default:
-                Console.WriteLine("Opción no válida. Por favor, selecciona una opción válida.");
-                break;
-        }
+    switch (opcion)
+    {
+        case "1":
+            EnviarPaquete();
+            break;
+        case "2":
+            salir = true;
+            break;
+        default:
+            Console.WriteLine("Opción no válida. Por favor, selecciona una opción válida.");
+            break;
+    }
 }
 
 
@@ -67,3 +67,4 @@ static void EnviarPaquete()
     EnviarNotificacion();
     Console.WriteLine(resultado);
 }
+

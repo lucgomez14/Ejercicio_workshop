@@ -10,25 +10,18 @@ namespace EjercicioWorkshop.Entities
     {
         public string EnviarNotificacion(string mensaje, string tipoNotificacion, string valor)
         {
-            switch (tipoNotificacion.ToLower())
+            if (tipoNotificacion.ToLower() == "email")
             {
-                case "email":
-                    return EnviarMensajePorCorreoElectronico(mensaje, valor);
-                case "sms":
-                    return EnviarMensajePorTelefono(mensaje, valor);
-                default:
-                    throw new ArgumentException("Tipo de notificación no válido");
+                return "Enviado a " + valor + " por correo electrónico";
             }
-        }
-
-        public string EnviarMensajePorCorreoElectronico(string mensaje, string email)
-        {
-            return "Enviado a " + email + " por correo electrónico";
-        }
-
-        public string EnviarMensajePorTelefono(string mensaje, string numeroTelefono)
-        {
-            return "Enviado a " + numeroTelefono + " por mensaje de texto";
+            if (tipoNotificacion.ToLower() == "sms")
+            {
+                return "Enviado a " + valor + " por mensaje de texto";
+            }
+            else
+            {
+                throw new ArgumentException("Tipo de notificación no válido");
+            }
         }
     }
 }
